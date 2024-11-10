@@ -47,4 +47,7 @@ button:hover {
     text-align: center;
     font-weight: 900;
 }
+.output :hover{
+    color: red;
+}
 
