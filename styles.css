@@ -41,4 +41,10 @@ button {
 button:hover {
     background-color: #4A628B;
 }
+.output {
+    margin-top: 20px;
+    line-height: 1.4;
+    text-align: center;
+    font-weight: 900;
+}
 
