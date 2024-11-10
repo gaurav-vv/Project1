@@ -50,4 +50,11 @@ button:hover {
 .output :hover{
     color: red;
 }
+.container h2{
+    font-size: 35px;
+}
+.container p{
+    font-weight:900;
+    font-size: larger;
+}
 
