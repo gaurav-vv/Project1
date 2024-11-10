@@ -14,7 +14,7 @@ body {
     background: #B9E5E8;
     padding: 50px;
     border-radius: 25px;
-    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.7);
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.6);
 
 }
 input {
@@ -24,3 +24,7 @@ input {
     font-size: 30px;
     margin-left: 3rem;
     font-weight: 900;
+    background-color:#DFF2EB;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.4);
+    margin-top: 1.4rem;
