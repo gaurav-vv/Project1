@@ -38,4 +38,7 @@ button {
     margin-left: 17rem;
     font-weight: 900;
 }
+button:hover {
+    background-color: #4A628B;
+}
 
